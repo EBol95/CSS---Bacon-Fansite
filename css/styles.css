@@ -1,0 +1,25 @@
+/*
+img{
+  background-color: red;
+}
+*/
+
+img:hover{
+  background-color:gold;
+}
+
+.broccoli {
+  background-color: red;
+  height: 160px;
+  width: 160px;
+}
+.circular{
+  border-radius: 100%;
+}
+.bacon {
+  background-color: green;
+}
+
+#heading{
+  color: blue;
+}
